@@ -36,7 +36,7 @@ export class Product {
     price: number;
 
     @ApiProperty({
-        example: 'notehunoateglrc., ntoethuaonuhosn',
+        example: 'notehunoategl ntoethuaonuhosn',
         description: 'Product description',
         default: null
     })
